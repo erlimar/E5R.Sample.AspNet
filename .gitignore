@@ -1,3 +1,5 @@
 artifacts/
 build-stage/
 bin/
+
+**/*.html
